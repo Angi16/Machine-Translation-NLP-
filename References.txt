@@ -1,0 +1,47 @@
+1.Part II:  NLP
+Applications:  Statistical  Machine Translation
+Stephen  Clark
+
+https://www.cl.cam.ac.uk/teaching/0809/NLP/slides-steve.pdf
+
+
+2. Machine Translation – Overview
+
+http://language.worldofcomputing.net/machine-translation/machine-translation-overview.html
+
+3.Archive for the ‘Machine Translation’ Category
+
+http://language.worldofcomputing.net/category/machine-translation
+
+4.Machine Translation
+
+https://nlp.stanford.edu/projects/mt.shtml
+
+5.https://www.techemergence.com/machine-translation-14-current-applications-and-services/
+
+6.http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.638.86&rep=rep1&type=pdf
+
+7.http://www.academia.edu/3887954/OVER_VIEW-_THE_MACHINE_TRANSLATION_IN_NLP
+
+8.Neural machine translation
+https://en.wikipedia.org/wiki/Neural_machine_translation
+
+9.Statistical machine translation
+https://en.wikipedia.org/wiki/Statistical_machine_translation
+
+
+========================================================================
+
+PYTHON CODE
+
+https://stackoverflow.com/questions/34382722/how-can-i-easily-machine-translate-something-with-python
+
+https://www.nltk.org/api/nltk.translate.html
+
+https://us.pycon.org/2015/schedule/presentation/436/
+
+https://www.pythonstudio.us/language-processing/machine-translation.html
+
+https://impythonist.wordpress.com/2014/02/11/language-translation-with-python/
+
+https://www.ebayinc.com/stories/blogs/tech/machine-translation-corpus-analysis/
